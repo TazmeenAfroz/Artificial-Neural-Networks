@@ -5,7 +5,7 @@ Welcome to the GitHub repository for the **Artificial Neural Networks** course a
 This repo contains notes, assignments, notebooks, and lecture-related material.
 
 📺 **YouTube Playlist** :  
-[Watch all lectures here]([https://youtube.com/playlist?list=YOUR_PLAYLIST_ID](https://youtube.com/playlist?list=PLHvklJ3ab98YvLHVtDwOng9s4Xf5uNC-c&si=v2K5VLbdiCyDpqjZ))  
+[Watch all lectures here](https://youtube.com/playlist?list=PLHvklJ3ab98YvLHVtDwOng9s4Xf5uNC-c&si=v2K5VLbdiCyDpqjZ)
 
 ---
 
